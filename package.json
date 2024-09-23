@@ -1,0 +1,13 @@
+{
+    "name": "yolo-env-loader",
+    "version": "1.0.0",
+    "description": "YOLO - You Only Load Once: A flexible environment loader for Node.js",
+    "main": "yolo.js",
+    "bin": {
+      "yolo": "./yolo.js"
+    },
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "js-yaml": "^4.1.0"
+    }
+  }
